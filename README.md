@@ -1,9 +1,7 @@
 # CURSO DE ASSEMBLY
 👨‍⚖️ASSEMBLY É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://software.intel.com/) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLxTkH01AauxRm0LFLlOA9RR5O6hBLqBtC&si=7j17sanq1xaFK4y7)
+<img src="FOTO.png" align="center" width="400"> <br>
 
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
@@ -357,5 +355,11 @@ Neste exemplo, usamos a interrupção 0x80 para chamar funções do sistema oper
 8. **Dependência de Documentação Específica da Arquitetura**: Cada arquitetura de processador possui sua própria documentação e conjunto de instruções, o que requer que os desenvolvedores se familiarizem com a documentação específica da plataforma que estão usando.
 
 9. **Falta de Ferramentas Modernas**: A disponibilidade de ferramentas de desenvolvimento e depuração para Assembly pode ser limitada em comparação com linguagens de alto nível. Isso pode tornar o processo de desenvolvimento mais difícil.
+
+# SUBSIDIOS:
+- [CURSO CRIADO PELO "FERNANDO ANSELMO"](https://youtube.com/playlist?list=PLxTkH01AauxRm0LFLlOA9RR5O6hBLqBtC&si=7j17sanq1xaFK4y7)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://software.intel.com/)
+
 
 

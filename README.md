@@ -89,7 +89,9 @@ A programação em Assembly é geralmente evitada em aplicações de software de
 # SUBSIDIOS:
 - [CURSO CRIADO PELO "FERNANDO ANSELMO"](https://youtube.com/playlist?list=PLxTkH01AauxRm0LFLlOA9RR5O6hBLqBtC&si=7j17sanq1xaFK4y7)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
-- [VEJA A DOCUMENTAÇÃO](https://software.intel.com/)
+- [VEJA A DOCUMENTAÇÃO DA ORACLE](https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf)
+- [VEJA A DOCUMENTAÇÃO DA IBM](https://www.ibm.com/docs/en/aix/7.2?topic=aix-assembler-language-reference)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 
 

@@ -93,6 +93,7 @@ A programação em Assembly é geralmente evitada em aplicações de software de
 - [VEJA A DOCUMENTAÇÃO DA IBM](https://www.ibm.com/docs/en/aix/7.2?topic=aix-assembler-language-reference)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:ASSEMBLY)
 
 
 
